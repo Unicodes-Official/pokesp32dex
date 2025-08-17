@@ -1,0 +1,1579 @@
+[
+    {
+        "id": 1,
+        "name": "bulbasaur",
+        "height": 7,
+        "weight": 69,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "description": "Un seme raro gli è stato piantato sulla schiena alla nascita. La pianta sboccia e cresce con lui."
+    },
+    {
+        "id": 2,
+        "name": "ivysaur",
+        "height": 10,
+        "weight": 130,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "description": "Quando gli cresce il bulbo sulla schiena, sembra non riuscire più a stare in posizione eretta."
+    },
+    {
+        "id": 3,
+        "name": "venusaur",
+        "height": 20,
+        "weight": 1000,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "description": "La pianta fiorisce assorbendo energia solare. È sempre in movimento in cerca di luce."
+    },
+    {
+        "id": 4,
+        "name": "charmander",
+        "height": 6,
+        "weight": 85,
+        "types": [
+            "fire"
+        ],
+        "description": "Predilige ovviamente i luoghi caldi. Si dice che quando piove, del vapore esca dalla punta della sua coda."
+    },
+    {
+        "id": 5,
+        "name": "charmeleon",
+        "height": 11,
+        "weight": 190,
+        "types": [
+            "fire"
+        ],
+        "description": "Quando agita la sua coda, la temperatura circostante aumenta notevolmente. Può incenerire le rocce."
+    },
+    {
+        "id": 6,
+        "name": "charizard",
+        "height": 17,
+        "weight": 905,
+        "types": [
+            "fire",
+            "flying"
+        ],
+        "description": "Sputa fuoco a una temperatura tale da poter fondere qualsiasi materiale. È noto per causare involontariamente incendi boschivi."
+    },
+    {
+        "id": 7,
+        "name": "squirtle",
+        "height": 5,
+        "weight": 90,
+        "types": [
+            "water"
+        ],
+        "description": "Dopo la nascita, il suo dorso si gonfia e s'indurisce formando un guscio. Getta potenti schizzi di schiuma dalla bocca."
+    },
+    {
+        "id": 8,
+        "name": "wartortle",
+        "height": 10,
+        "weight": 225,
+        "types": [
+            "water"
+        ],
+        "description": "È spesso considerato un simbolo di longevità. Se il suo guscio ha delle alghe, quel WARTORTLE è molto vecchio."
+    },
+    {
+        "id": 9,
+        "name": "blastoise",
+        "height": 16,
+        "weight": 855,
+        "types": [
+            "water"
+        ],
+        "description": "Un Pokémon brutale con cannoni a getto sul suo guscio. Vengono usati per rapidi attacchi ad alta velocità."
+    },
+    {
+        "id": 10,
+        "name": "caterpie",
+        "height": 3,
+        "weight": 29,
+        "types": [
+            "bug"
+        ],
+        "description": "Le sue zampe corte terminano con delle ventose, grazie alle quali può arrampicarsi instancabilmente su pendii e pareti."
+    },
+    {
+        "id": 11,
+        "name": "metapod",
+        "height": 7,
+        "weight": 99,
+        "types": [
+            "bug"
+        ],
+        "description": "Questo POKéMON è vulnerabile agli attacchi mentre il suo guscio è morbido, esponendo il suo corpo tenero e debole."
+    },
+    {
+        "id": 12,
+        "name": "butterfree",
+        "height": 11,
+        "weight": 320,
+        "types": [
+            "bug",
+            "flying"
+        ],
+        "description": "In battaglia, sbatte le ali ad alta velocità per rilasciare una polvere altamente tossica nell'aria."
+    },
+    {
+        "id": 13,
+        "name": "weedle",
+        "height": 3,
+        "weight": 32,
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "description": "Spesso si nasconde nell'erba e sotto le foglie. Punzecchia con l'aculeo velenoso che ha sulla testa."
+    },
+    {
+        "id": 14,
+        "name": "kakuna",
+        "height": 6,
+        "weight": 100,
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "description": "Quasi incapace di muoversi, questo POKéMON può solo indurire il suo guscio per proteggersi dal pericolo."
+    },
+    {
+        "id": 15,
+        "name": "beedrill",
+        "height": 10,
+        "weight": 295,
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "description": "Vola ad alta velocità e attacca usando i grandi aculei velenosi sulle zampe anteriori e sulla coda."
+    },
+    {
+        "id": 16,
+        "name": "pidgey",
+        "height": 3,
+        "weight": 18,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "description": "Un POKéMON comune trovato nelle foreste e nei boschi. Smuove polvere battendo le ali molto vicino al suolo."
+    },
+    {
+        "id": 17,
+        "name": "pidgeotto",
+        "height": 11,
+        "weight": 300,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "description": "Molto protettivo nei confronti del suo vasto territorio, questo POKéMON beccherà ferocemente qualsiasi intruso."
+    },
+    {
+        "id": 18,
+        "name": "pidgeot",
+        "height": 15,
+        "weight": 395,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "description": "Quando caccia, vola a pelo d'acqua a velocità Mach 2, ghermendo prede ignare come MAGIKARP."
+    },
+    {
+        "id": 19,
+        "name": "rattata",
+        "height": 3,
+        "weight": 35,
+        "types": [
+            "normal"
+        ],
+        "description": "Morde qualsiasi cosa. Se ne vedi uno, stai certo che ce ne sono altri 40 nelle vicinanze."
+    },
+    {
+        "id": 20,
+        "name": "raticate",
+        "height": 7,
+        "weight": 185,
+        "types": [
+            "normal"
+        ],
+        "description": "Usa i suoi baffi per mantenere l'equilibrio. Sembra che rallenti se i suoi baffi vengono tagliati."
+    },
+    {
+        "id": 21,
+        "name": "spearow",
+        "height": 3,
+        "weight": 20,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "description": "Mangia insetti nelle zone erbose. Sbatte le sue ali molto corte e veloci per rimanere in volo."
+    },
+    {
+        "id": 22,
+        "name": "fearow",
+        "height": 12,
+        "weight": 380,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "description": "Con le sue ali grandi e magnifiche, può rimanere in volo per un giorno intero senza dover atterrare."
+    },
+    {
+        "id": 23,
+        "name": "ekans",
+        "height": 20,
+        "weight": 69,
+        "types": [
+            "poison"
+        ],
+        "description": "Si muove silenziosamente e furtivamente. Mangia uova di uccelli, come quelle di PIDGEY e SPEAROW, intere."
+    },
+    {
+        "id": 24,
+        "name": "arbok",
+        "height": 35,
+        "weight": 650,
+        "types": [
+            "poison"
+        ],
+        "description": "Si dice che il terrificante disegno sul suo ventre possa variare da regione a regione."
+    },
+    {
+        "id": 25,
+        "name": "pikachu",
+        "height": 4,
+        "weight": 60,
+        "types": [
+            "electric"
+        ],
+        "description": "Quando diversi di questi POKéMON si riuniscono, la loro elettricità può accumularsi e causare tempeste di fulmini."
+    },
+    {
+        "id": 26,
+        "name": "raichu",
+        "height": 8,
+        "weight": 300,
+        "types": [
+            "electric"
+        ],
+        "description": "La sua lunga coda funge da messa a terra per proteggersi dall'alta tensione del suo stesso corpo."
+    },
+    {
+        "id": 27,
+        "name": "sandshrew",
+        "height": 6,
+        "weight": 120,
+        "types": [
+            "ground"
+        ],
+        "description": "Si appallottola per proteggersi dagli attacchi esterni. Se cade da una grande altezza, può rimbalzare senza subire danni."
+    },
+    {
+        "id": 28,
+        "name": "sandslash",
+        "height": 10,
+        "weight": 295,
+        "types": [
+            "ground"
+        ],
+        "description": "Si appallottola per proteggersi e rotola per attaccare o fuggire ad alta velocità."
+    },
+    {
+        "id": 29,
+        "name": "nidoran-f",
+        "height": 4,
+        "weight": 70,
+        "types": [
+            "poison"
+        ],
+        "description": "Anche se piccola, i suoi aculei velenosi la rendono pericolosa. La femmina ha aculei più piccoli."
+    },
+    {
+        "id": 30,
+        "name": "nidorina",
+        "height": 8,
+        "weight": 200,
+        "types": [
+            "poison"
+        ],
+        "description": "Il corno della femmina si sviluppa lentamente. Predilige attacchi fisici come graffi e morsi."
+    },
+    {
+        "id": 31,
+        "name": "nidoqueen",
+        "height": 13,
+        "weight": 600,
+        "types": [
+            "poison",
+            "ground"
+        ],
+        "description": "Le sue dure squame forniscono una protezione eccellente. Usa la sua stazza per eseguire mosse potenti."
+    },
+    {
+        "id": 32,
+        "name": "nidoran-m",
+        "height": 5,
+        "weight": 90,
+        "types": [
+            "poison"
+        ],
+        "description": "Alza le sue grandi orecchie per vigilare. Se percepisce pericolo, attacca con il suo grande corno velenoso."
+    },
+    {
+        "id": 33,
+        "name": "nidorino",
+        "height": 9,
+        "weight": 195,
+        "types": [
+            "poison"
+        ],
+        "description": "Un POKéMON aggressivo che è veloce ad attaccare. Il corno sulla sua testa secerne un potente veleno."
+    },
+    {
+        "id": 34,
+        "name": "nidoking",
+        "height": 14,
+        "weight": 620,
+        "types": [
+            "poison",
+            "ground"
+        ],
+        "description": "Usa la sua potente coda per distruggere, schiacciare e stringere le sue prede. La sua pelle è dura come l'acciaio."
+    },
+    {
+        "id": 35,
+        "name": "clefairy",
+        "height": 6,
+        "weight": 75,
+        "types": [
+            "fairy"
+        ],
+        "description": "La sua aura magica e graziosa lo rende popolare. Tuttavia, è un POKéMON raro che si trova raramente."
+    },
+    {
+        "id": 36,
+        "name": "clefable",
+        "height": 13,
+        "weight": 400,
+        "types": [
+            "fairy"
+        ],
+        "description": "Un POKéMON fatato timido che si vede raramente. Fugge e si nasconde nel momento in cui percepisce la presenza di persone."
+    },
+    {
+        "id": 37,
+        "name": "vulpix",
+        "height": 6,
+        "weight": 99,
+        "types": [
+            "fire"
+        ],
+        "description": "Alla nascita, ha una sola coda bianca. La coda si divide in sei se riceve molto affetto dal suo Allenatore."
+    },
+    {
+        "id": 38,
+        "name": "ninetales",
+        "height": 11,
+        "weight": 199,
+        "types": [
+            "fire"
+        ],
+        "description": "Molto intelligente e vendicativo. Afferrare una delle sue nove code può causare una maledizione di 1000 anni."
+    },
+    {
+        "id": 39,
+        "name": "jigglypuff",
+        "height": 5,
+        "weight": 55,
+        "types": [
+            "normal",
+            "fairy"
+        ],
+        "description": "Quando i suoi occhi roteano, canta una melodia stranamente rilassante che induce il sonno nei suoi nemici."
+    },
+    {
+        "id": 40,
+        "name": "wigglytuff",
+        "height": 10,
+        "weight": 120,
+        "types": [
+            "normal",
+            "fairy"
+        ],
+        "description": "La sua pelliccia è di altissima qualità. Dormire al suo fianco è meraviglioso. Inspira per gonfiarsi."
+    },
+    {
+        "id": 41,
+        "name": "zubat",
+        "height": 8,
+        "weight": 75,
+        "types": [
+            "poison",
+            "flying"
+        ],
+        "description": "Forma colonie in luoghi bui. Usa le onde ultrasoniche emesse dalla bocca per orientarsi."
+    },
+    {
+        "id": 42,
+        "name": "golbat",
+        "height": 16,
+        "weight": 550,
+        "types": [
+            "poison",
+            "flying"
+        ],
+        "description": "Una volta che morde, non smette di succhiare l'energia della sua vittima, anche se diventa troppo pesante per volare."
+    },
+    {
+        "id": 43,
+        "name": "oddish",
+        "height": 5,
+        "weight": 54,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "description": "Durante il giorno, tiene il viso sepolto nel terreno. Di notte, vaga per spargere i suoi semi."
+    },
+    {
+        "id": 44,
+        "name": "gloom",
+        "height": 8,
+        "weight": 86,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "description": "Il liquido che gocciola dalla sua bocca non è bava. È un nettare che usa per attirare le prede."
+    },
+    {
+        "id": 45,
+        "name": "vileplume",
+        "height": 12,
+        "weight": 186,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "description": "I suoi petali sono i più grandi al mondo. Spargono polline tossico che causa reazioni allergiche."
+    },
+    {
+        "id": 46,
+        "name": "paras",
+        "height": 3,
+        "weight": 54,
+        "types": [
+            "bug",
+            "grass"
+        ],
+        "description": "Scava per succhiare le radici degli alberi. I funghi sulla schiena crescono attingendo nutrienti dall'insetto ospite."
+    },
+    {
+        "id": 47,
+        "name": "parasect",
+        "height": 10,
+        "weight": 295,
+        "types": [
+            "bug",
+            "grass"
+        ],
+        "description": "Un POKéMON ospite, controllato da un fungo. È noto per infestare i grandi alberi e prosciugarli di nutrienti."
+    },
+    {
+        "id": 48,
+        "name": "venonat",
+        "height": 10,
+        "weight": 300,
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "description": "Vive nell'ombra degli alberi ad alto fusto dove si nutre di insetti. È attivo di notte."
+    },
+    {
+        "id": 49,
+        "name": "venomoth",
+        "height": 15,
+        "weight": 125,
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "description": "Le scaglie di polvere che cadono quando sbatte le ali sono velenose se inalate."
+    },
+    {
+        "id": 50,
+        "name": "diglett",
+        "height": 2,
+        "weight": 8,
+        "types": [
+            "ground"
+        ],
+        "description": "Vive a circa un metro sottoterra dove si nutre di radici. Appare in superficie solo raramente."
+    },
+    {
+        "id": 51,
+        "name": "dugtrio",
+        "height": 7,
+        "weight": 333,
+        "types": [
+            "ground"
+        ],
+        "description": "Un trio di DIGLETT. Poiché scavano insieme, possono raggiungere profondità di oltre 60 miglia."
+    },
+    {
+        "id": 52,
+        "name": "meowth",
+        "height": 4,
+        "weight": 42,
+        "types": [
+            "normal"
+        ],
+        "description": "Adora gli oggetti rotondi e luccicanti. Di notte vaga per le strade in cerca di monete smarrite."
+    },
+    {
+        "id": 53,
+        "name": "persian",
+        "height": 10,
+        "weight": 320,
+        "types": [
+            "normal"
+        ],
+        "description": "Anche se ha un pelo bellissimo, è difficile da allevare come animale domestico a causa della sua natura volubile e dispettosa."
+    },
+    {
+        "id": 54,
+        "name": "psyduck",
+        "height": 8,
+        "weight": 196,
+        "types": [
+            "water"
+        ],
+        "description": "Mentre confonde i suoi nemici con il suo sguardo assente, questo astuto POKéMON usa poteri psicocinetici."
+    },
+    {
+        "id": 55,
+        "name": "golduck",
+        "height": 17,
+        "weight": 766,
+        "types": [
+            "water"
+        ],
+        "description": "Spesso visto nuotare elegantemente lungo le rive dei laghi. È più veloce di un campione di nuoto umano."
+    },
+    {
+        "id": 56,
+        "name": "mankey",
+        "height": 5,
+        "weight": 280,
+        "types": [
+            "fighting"
+        ],
+        "description": "Estremamente irascibile. Può infuriarsi istantaneamente senza alcun motivo."
+    },
+    {
+        "id": 57,
+        "name": "primeape",
+        "height": 10,
+        "weight": 320,
+        "types": [
+            "fighting"
+        ],
+        "description": "Sempre furioso e aggressivo. Insegue chiunque incroci il suo sguardo."
+    },
+    {
+        "id": 58,
+        "name": "growlithe",
+        "height": 7,
+        "weight": 190,
+        "types": [
+            "fire"
+        ],
+        "description": "Molto protettivo nei confronti del suo territorio. Abbaia e morde per scacciare gli intrusi dal suo spazio."
+    },
+    {
+        "id": 59,
+        "name": "arcanine",
+        "height": 19,
+        "weight": 1550,
+        "types": [
+            "fire"
+        ],
+        "description": "Un POKéMON apprezzato fin dai tempi antichi per la sua bellezza. Corre agilmente come se volasse."
+    },
+    {
+        "id": 60,
+        "name": "poliwag",
+        "height": 6,
+        "weight": 124,
+        "types": [
+            "water"
+        ],
+        "description": "Le sue gambe non sono ancora ben sviluppate. È un nuotatore migliore di un camminatore."
+    },
+    {
+        "id": 61,
+        "name": "poliwhirl",
+        "height": 10,
+        "weight": 200,
+        "types": [
+            "water"
+        ],
+        "description": "Capace di vivere dentro e fuori dall'acqua. Sulla terraferma, suda per mantenere la sua pelle umida."
+    },
+    {
+        "id": 62,
+        "name": "poliwrath",
+        "height": 13,
+        "weight": 540,
+        "types": [
+            "water",
+            "fighting"
+        ],
+        "description": "Un eccellente nuotatore, sia in stile libero che a dorso. Supera facilmente i migliori nuotatori umani."
+    },
+    {
+        "id": 63,
+        "name": "abra",
+        "height": 9,
+        "weight": 195,
+        "types": [
+            "psychic"
+        ],
+        "description": "Dorme 18 ore al giorno. Se avverte pericolo, si teletrasporta in un luogo sicuro anche mentre dorme."
+    },
+    {
+        "id": 64,
+        "name": "kadabra",
+        "height": 13,
+        "weight": 565,
+        "types": [
+            "psychic"
+        ],
+        "description": "Emette onde alfa speciali. Se ti avvicini, potresti avere un mal di testa e vedere il tuo orologio andare indietro."
+    },
+    {
+        "id": 65,
+        "name": "alakazam",
+        "height": 15,
+        "weight": 480,
+        "types": [
+            "psychic"
+        ],
+        "description": "Il suo cervello può superare un supercomputer. Si dice che il suo quoziente intellettivo sia 5000."
+    },
+    {
+        "id": 66,
+        "name": "machop",
+        "height": 8,
+        "weight": 195,
+        "types": [
+            "fighting"
+        ],
+        "description": "Adora allenare i suoi muscoli. Si allena in tutti gli stili di arti marziali per diventare ancora più forte."
+    },
+    {
+        "id": 67,
+        "name": "machoke",
+        "height": 15,
+        "weight": 705,
+        "types": [
+            "fighting"
+        ],
+        "description": "Il suo corpo muscoloso è così potente che usa una cintura di contenimento per controllare i suoi movimenti."
+    },
+    {
+        "id": 68,
+        "name": "machamp",
+        "height": 16,
+        "weight": 1300,
+        "types": [
+            "fighting"
+        ],
+        "description": "Usa le sue quattro braccia sviluppate per colpire il nemico da ogni angolazione. Può sferrare 1000 pugni in 2 secondi."
+    },
+    {
+        "id": 69,
+        "name": "bellsprout",
+        "height": 7,
+        "weight": 40,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "description": "Un POKéMON carnivoro che intrappola e mangia insetti. Usa la sua radice come piede per assorbire l'umidità."
+    },
+    {
+        "id": 70,
+        "name": "weepinbell",
+        "height": 10,
+        "weight": 64,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "description": "Sputa un fluido che dissolve qualsiasi cosa. Si appende a un ramo di un albero per dormire."
+    },
+    {
+        "id": 71,
+        "name": "victreebel",
+        "height": 17,
+        "weight": 155,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "description": "Si dice che viva in grandi colonie nelle giungle. Nessuno è mai tornato dopo essersi avventurato in una di esse."
+    },
+    {
+        "id": 72,
+        "name": "tentacool",
+        "height": 9,
+        "weight": 455,
+        "types": [
+            "water",
+            "poison"
+        ],
+        "description": "Galleggia in acque poco profonde. I pescatori ignari vengono spesso punti dai suoi tentacoli velenosi."
+    },
+    {
+        "id": 73,
+        "name": "tentacruel",
+        "height": 16,
+        "weight": 550,
+        "types": [
+            "water",
+            "poison"
+        ],
+        "description": "I suoi 80 tentacoli possono allungarsi e accorciarsi liberamente. Li usa per avvolgere la sua preda e avvelenarla."
+    },
+    {
+        "id": 74,
+        "name": "geodude",
+        "height": 4,
+        "weight": 200,
+        "types": [
+            "rock",
+            "ground"
+        ],
+        "description": "Si trova comunemente sui sentieri di montagna, ecc. Se calpestato o inciampato, non si arrabbia."
+    },
+    {
+        "id": 75,
+        "name": "graveler",
+        "height": 10,
+        "weight": 1050,
+        "types": [
+            "rock",
+            "ground"
+        ],
+        "description": "Rotola giù dalle montagne, vivendo sulle loro pendici. Schiaccia qualsiasi cosa si trovi sul suo cammino."
+    },
+    {
+        "id": 76,
+        "name": "golem",
+        "height": 14,
+        "weight": 3000,
+        "types": [
+            "rock",
+            "ground"
+        ],
+        "description": "Il suo corpo roccioso è estremamente duro. Può facilmente resistere a esplosioni di dinamite senza subire danni."
+    },
+    {
+        "id": 77,
+        "name": "ponyta",
+        "height": 10,
+        "weight": 300,
+        "types": [
+            "fire"
+        ],
+        "description": "I suoi zoccoli sono dieci volte più duri del diamante. Può calpestare qualsiasi cosa e ridurla in polvere in un istante."
+    },
+    {
+        "id": 78,
+        "name": "rapidash",
+        "height": 17,
+        "weight": 950,
+        "types": [
+            "fire"
+        ],
+        "description": "Molto competitivo, questo POKéMON insegue qualsiasi cosa si muova velocemente nella speranza di gareggiare."
+    },
+    {
+        "id": 79,
+        "name": "slowpoke",
+        "height": 12,
+        "weight": 360,
+        "types": [
+            "water",
+            "psychic"
+        ],
+        "description": "Incredibilmente lento e ottuso. Ci vogliono 5 secondi perché senta il dolore quando viene attaccato."
+    },
+    {
+        "id": 80,
+        "name": "slowbro",
+        "height": 16,
+        "weight": 785,
+        "types": [
+            "water",
+            "psychic"
+        ],
+        "description": "Lo SHELLDER attaccato alla sua coda si nutre degli avanzi dello SLOWPOKE. Non lo lascia andare."
+    },
+    {
+        "id": 81,
+        "name": "magnemite",
+        "height": 3,
+        "weight": 60,
+        "types": [
+            "electric",
+            "steel"
+        ],
+        "description": "Usa unità anti-gravità per rimanere sospeso. Appare senza preavviso e scompare all'istante."
+    },
+    {
+        "id": 82,
+        "name": "magneton",
+        "height": 10,
+        "weight": 600,
+        "types": [
+            "electric",
+            "steel"
+        ],
+        "description": "Formato da diversi MAGNEMITE collegati. Emettono un forte campo magnetico che può danneggiare gli strumenti."
+    },
+    {
+        "id": 83,
+        "name": "farfetchd",
+        "height": 8,
+        "weight": 150,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "description": "Il gambo di porro che porta è la sua arma. Lo usa come una spada per tagliare varie cose."
+    },
+    {
+        "id": 84,
+        "name": "doduo",
+        "height": 14,
+        "weight": 392,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "description": "Usa le sue due teste per scopi diversi. Una è per beccare il cibo, l'altra per esplorare il terreno."
+    },
+    {
+        "id": 85,
+        "name": "dodrio",
+        "height": 18,
+        "weight": 852,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "description": "Corre a quasi 40 miglia orarie. Le sue tre teste rappresentano gioia, tristezza e rabbia."
+    },
+    {
+        "id": 86,
+        "name": "seel",
+        "height": 11,
+        "weight": 900,
+        "types": [
+            "water"
+        ],
+        "description": "La protuberanza sulla sua testa è dura come il ghiaccio. La usa per aprire buchi nella banchisa e cacciare."
+    },
+    {
+        "id": 87,
+        "name": "dewgong",
+        "height": 17,
+        "weight": 1200,
+        "types": [
+            "water",
+            "ice"
+        ],
+        "description": "Il suo corpo è ricoperto da una pelliccia bianca pura. Più fredda è l'acqua, più vivace diventa."
+    },
+    {
+        "id": 88,
+        "name": "grimer",
+        "height": 9,
+        "weight": 300,
+        "types": [
+            "poison"
+        ],
+        "description": "Appare in aree inquinate. Prospera nutrendosi dei rifiuti industriali scaricati dalle fabbriche."
+    },
+    {
+        "id": 89,
+        "name": "muk",
+        "height": 12,
+        "weight": 300,
+        "types": [
+            "poison"
+        ],
+        "description": "Spesso e viscido, si infiltra in qualsiasi apertura. Il suo corpo puzza di marcio."
+    },
+    {
+        "id": 90,
+        "name": "shellder",
+        "height": 3,
+        "weight": 40,
+        "types": [
+            "water"
+        ],
+        "description": "Il suo guscio duro respinge qualsiasi tipo di attacco. È vulnerabile solo quando il guscio è aperto."
+    },
+    {
+        "id": 91,
+        "name": "cloyster",
+        "height": 15,
+        "weight": 1325,
+        "types": [
+            "water",
+            "ice"
+        ],
+        "description": "Quando viene attaccato, lancia i suoi aculei. Il suo interno non è mai stato visto."
+    },
+    {
+        "id": 92,
+        "name": "gastly",
+        "height": 13,
+        "weight": 1,
+        "types": [
+            "ghost",
+            "poison"
+        ],
+        "description": "Quasi invisibile, questo POKéMON gassoso avvolge la sua preda e la addormenta lentamente."
+    },
+    {
+        "id": 93,
+        "name": "haunter",
+        "height": 16,
+        "weight": 1,
+        "types": [
+            "ghost",
+            "poison"
+        ],
+        "description": "Poiché può passare attraverso i muri, si dice che provenga da un'altra dimensione."
+    },
+    {
+        "id": 94,
+        "name": "gengar",
+        "height": 15,
+        "weight": 405,
+        "types": [
+            "ghost",
+            "poison"
+        ],
+        "description": "Sotto una luna piena, a questo POKéMON piace imitare le ombre delle persone e ridere della loro paura."
+    },
+    {
+        "id": 95,
+        "name": "onix",
+        "height": 88,
+        "weight": 2100,
+        "types": [
+            "rock",
+            "ground"
+        ],
+        "description": "Mentre scava nel terreno, assorbe molti oggetti duri. Questo rende il suo corpo estremamente solido."
+    },
+    {
+        "id": 96,
+        "name": "drowzee",
+        "height": 10,
+        "weight": 324,
+        "types": [
+            "psychic"
+        ],
+        "description": "Mette a dormire i suoi nemici e poi mangia i loro sogni. A volte si ammala mangiando brutti sogni."
+    },
+    {
+        "id": 97,
+        "name": "hypno",
+        "height": 16,
+        "weight": 756,
+        "types": [
+            "psychic"
+        ],
+        "description": "Quando ha l'occasione di vedere un sogno, lo ricorda completamente. Non dimentica mai un sogno."
+    },
+    {
+        "id": 98,
+        "name": "krabby",
+        "height": 4,
+        "weight": 65,
+        "types": [
+            "water"
+        ],
+        "description": "Le sue chele sono armi potenti, ma sono grandi e pesanti, il che lo rende incline a perdere l'equilibrio."
+    },
+    {
+        "id": 99,
+        "name": "kingler",
+        "height": 13,
+        "weight": 600,
+        "types": [
+            "water"
+        ],
+        "description": "La sua chela più grande ha una potenza di 10.000 cavalli vapore. Tuttavia, è troppo pesante per essere usata liberamente."
+    },
+    {
+        "id": 100,
+        "name": "voltorb",
+        "height": 5,
+        "weight": 104,
+        "types": [
+            "electric"
+        ],
+        "description": "Di solito si trova nelle centrali elettriche. Per ragioni sconosciute, a volte esplode."
+    },
+    {
+        "id": 101,
+        "name": "electrode",
+        "height": 12,
+        "weight": 666,
+        "types": [
+            "electric"
+        ],
+        "description": "Immagazzina energia elettrica reattiva. È incline a esplodere con la minima provocazione."
+    },
+    {
+        "id": 102,
+        "name": "exeggcute",
+        "height": 4,
+        "weight": 25,
+        "types": [
+            "grass",
+            "psychic"
+        ],
+        "description": "Spesso scambiato per un gruppo di uova. Se vengono disturbati, si riuniscono rapidamente e attaccano in gruppo."
+    },
+    {
+        "id": 103,
+        "name": "exeggutor",
+        "height": 20,
+        "weight": 1200,
+        "types": [
+            "grass",
+            "psychic"
+        ],
+        "description": "Leggendario nel sud come la 'Giungla che Cammina'. Se una testa diventa troppo grande, cade e diventa un EXEGGCUTE."
+    },
+    {
+        "id": 104,
+        "name": "cubone",
+        "height": 4,
+        "weight": 65,
+        "types": [
+            "ground"
+        ],
+        "description": "Indossa il teschio di sua madre defunta come un elmo. Si dice che nessuno abbia mai visto la sua vera faccia."
+    },
+    {
+        "id": 105,
+        "name": "marowak",
+        "height": 10,
+        "weight": 450,
+        "types": [
+            "ground"
+        ],
+        "description": "Il POKéMON Osso Solitario. È piccolo e originariamente debole. Si è indurito dopo la morte di sua madre."
+    },
+    {
+        "id": 106,
+        "name": "hitmonlee",
+        "height": 15,
+        "weight": 498,
+        "types": [
+            "fighting"
+        ],
+        "description": "Quando è in difficoltà, questo POKéMON allunga le sue gambe. Colpisce con i suoi arti estensibili."
+    },
+    {
+        "id": 107,
+        "name": "hitmonchan",
+        "height": 14,
+        "weight": 502,
+        "types": [
+            "fighting"
+        ],
+        "description": "Mentre è apparentemente fermo a riposare, questo POKéMON lancia pugni così velocemente che sono invisibili."
+    },
+    {
+        "id": 108,
+        "name": "lickitung",
+        "height": 12,
+        "weight": 655,
+        "types": [
+            "normal"
+        ],
+        "description": "La sua lingua può estendersi come quella di un camaleonte. La usa per leccare e pulire qualsiasi cosa sia sporca."
+    },
+    {
+        "id": 109,
+        "name": "koffing",
+        "height": 6,
+        "weight": 10,
+        "types": [
+            "poison"
+        ],
+        "description": "Poiché contiene gas tossici, si gonfia e può esplodere senza preavviso."
+    },
+    {
+        "id": 110,
+        "name": "weezing",
+        "height": 12,
+        "weight": 95,
+        "types": [
+            "poison"
+        ],
+        "description": "Dove due tipi di gas velenosi si incontrano, due KOFFING possono unirsi per formare un WEEZING nel tempo."
+    },
+    {
+        "id": 111,
+        "name": "rhyhorn",
+        "height": 10,
+        "weight": 1150,
+        "types": [
+            "ground",
+            "rock"
+        ],
+        "description": "Il suo cervello è piccolo. Carica in linea retta, distruggendo case senza rallentare."
+    },
+    {
+        "id": 112,
+        "name": "rhydon",
+        "height": 19,
+        "weight": 1200,
+        "types": [
+            "ground",
+            "rock"
+        ],
+        "description": "Protetto da una pelle dura come una corazza, può vivere nella lava fusa a 3.600 gradi."
+    },
+    {
+        "id": 113,
+        "name": "chansey",
+        "height": 11,
+        "weight": 346,
+        "types": [
+            "normal"
+        ],
+        "description": "Un POKéMON compassionevole che, se trova una creatura ferita, condivide con essa il suo uovo nutriente."
+    },
+    {
+        "id": 114,
+        "name": "tangela",
+        "height": 10,
+        "weight": 350,
+        "types": [
+            "grass"
+        ],
+        "description": "Il suo intero corpo è ricoperto da liane che crescono continuamente e si aggrovigliano."
+    },
+    {
+        "id": 115,
+        "name": "kangaskhan",
+        "height": 22,
+        "weight": 800,
+        "types": [
+            "normal"
+        ],
+        "description": "Il cucciolo nel suo marsupio esce raramente. Per proteggere il suo piccolo, diventa estremamente violenta."
+    },
+    {
+        "id": 116,
+        "name": "horsea",
+        "height": 4,
+        "weight": 80,
+        "types": [
+            "water"
+        ],
+        "description": "Conosciuto per abbattere gli insetti volanti con un getto d'inchiostro preciso dalla superficie dell'acqua."
+    },
+    {
+        "id": 117,
+        "name": "seadra",
+        "height": 12,
+        "weight": 250,
+        "types": [
+            "water"
+        ],
+        "description": "Capace di nuotare all'indietro agitando abilmente le sue pinne pettorali a forma di ali."
+    },
+    {
+        "id": 118,
+        "name": "goldeen",
+        "height": 6,
+        "weight": 150,
+        "types": [
+            "water"
+        ],
+        "description": "Nuota elegantemente muovendo le pinne come se danzasse. Ama nuotare liberamente nei fiumi e negli stagni."
+    },
+    {
+        "id": 119,
+        "name": "seaking",
+        "height": 13,
+        "weight": 390,
+        "types": [
+            "water"
+        ],
+        "description": "In autunno, i maschi possono essere visti eseguire danze di corteggiamento nei letti dei fiumi per le femmine."
+    },
+    {
+        "id": 120,
+        "name": "staryu",
+        "height": 8,
+        "weight": 345,
+        "types": [
+            "water"
+        ],
+        "description": "Un POKéMON enigmatico che può rigenerare senza sforzo qualsiasi arto che perde in battaglia."
+    },
+    {
+        "id": 121,
+        "name": "starmie",
+        "height": 11,
+        "weight": 800,
+        "types": [
+            "water",
+            "psychic"
+        ],
+        "description": "Il suo nucleo centrale brilla con i sette colori dell'arcobaleno. Per questo, è soprannominato la 'gemma del mare'."
+    },
+    {
+        "id": 122,
+        "name": "mr-mime",
+        "height": 13,
+        "weight": 545,
+        "types": [
+            "psychic",
+            "fairy"
+        ],
+        "description": "Se disturbato mentre sta mimando, schiaffeggerà l'intruso con le sue grandi mani."
+    },
+    {
+        "id": 123,
+        "name": "scyther",
+        "height": 15,
+        "weight": 560,
+        "types": [
+            "bug",
+            "flying"
+        ],
+        "description": "Con una velocità fulminea, può creare l'illusione di essere più di uno. Affetta con le sue falci."
+    },
+    {
+        "id": 124,
+        "name": "jynx",
+        "height": 14,
+        "weight": 406,
+        "types": [
+            "ice",
+            "psychic"
+        ],
+        "description": "Parla una lingua che sembra umana. Tuttavia, è impossibile capire cosa stia cercando di dire."
+    },
+    {
+        "id": 125,
+        "name": "electabuzz",
+        "height": 11,
+        "weight": 300,
+        "types": [
+            "electric"
+        ],
+        "description": "Normalmente si trova vicino alle centrali elettriche. Le interruzioni di corrente in città possono essere causate da questo POKéMON che si nutre."
+    },
+    {
+        "id": 126,
+        "name": "magmar",
+        "height": 13,
+        "weight": 445,
+        "types": [
+            "fire"
+        ],
+        "description": "Il suo corpo brucia sempre di un arancione brillante, rendendolo difficile da individuare tra le fiamme."
+    },
+    {
+        "id": 127,
+        "name": "pinsir",
+        "height": 15,
+        "weight": 550,
+        "types": [
+            "bug"
+        ],
+        "description": "Se non riesce a schiacciare la sua vittima con le sue pinze, la lancia lontano con grande forza."
+    },
+    {
+        "id": 128,
+        "name": "tauros",
+        "height": 14,
+        "weight": 884,
+        "types": [
+            "normal"
+        ],
+        "description": "Quando si sferza con le sue tre code, la sua carica violenta è inarrestabile."
+    },
+    {
+        "id": 129,
+        "name": "magikarp",
+        "height": 9,
+        "weight": 100,
+        "types": [
+            "water"
+        ],
+        "description": "In passato, era più forte della sua controparte moderna e indebolita."
+    },
+    {
+        "id": 130,
+        "name": "gyarados",
+        "height": 65,
+        "weight": 2350,
+        "types": [
+            "water",
+            "flying"
+        ],
+        "description": "Raramente appare in natura. Enorme e vizioso, è in grado di distruggere intere città in preda alla rabbia."
+    },
+    {
+        "id": 131,
+        "name": "lapras",
+        "height": 25,
+        "weight": 2200,
+        "types": [
+            "water",
+            "ice"
+        ],
+        "description": "Un POKéMON che è stato cacciato quasi fino all'estinzione. Può trasportare le persone attraverso l'acqua."
+    },
+    {
+        "id": 132,
+        "name": "ditto",
+        "height": 3,
+        "weight": 40,
+        "types": [
+            "normal"
+        ],
+        "description": "Capace di ricostruire l'intera sua struttura cellulare per trasformarsi in qualsiasi cosa veda."
+    },
+    {
+        "id": 133,
+        "name": "eevee",
+        "height": 3,
+        "weight": 65,
+        "types": [
+            "normal"
+        ],
+        "description": "La sua composizione genetica è irregolare. Muta quando esposto a radiazioni da varie pietre."
+    },
+    {
+        "id": 134,
+        "name": "vaporeon",
+        "height": 10,
+        "weight": 290,
+        "types": [
+            "water"
+        ],
+        "description": "Vive vicino all'acqua. La sua coda, lunga e terminante in una pinna, è spesso scambiata per quella di una sirena."
+    },
+    {
+        "id": 135,
+        "name": "jolteon",
+        "height": 8,
+        "weight": 245,
+        "types": [
+            "electric"
+        ],
+        "description": "Accumula ioni negativi nell'atmosfera per lanciare fulmini da 10.000 volt."
+    },
+    {
+        "id": 136,
+        "name": "flareon",
+        "height": 9,
+        "weight": 250,
+        "types": [
+            "fire"
+        ],
+        "description": "Quando immagazzina energia termica nel suo corpo, la sua temperatura può superare i 1.600 gradi."
+    },
+    {
+        "id": 137,
+        "name": "porygon",
+        "height": 8,
+        "weight": 365,
+        "types": [
+            "normal"
+        ],
+        "description": "Un POKéMON composto interamente da codice di programmazione. Può muoversi liberamente nel cyberspazio."
+    },
+    {
+        "id": 138,
+        "name": "omanyte",
+        "height": 4,
+        "weight": 75,
+        "types": [
+            "rock",
+            "water"
+        ],
+        "description": "Un POKéMON antico ed estinto che è stato rigenerato dai fossili. Nuota contorcendo i suoi 10 tentacoli."
+    },
+    {
+        "id": 139,
+        "name": "omastar",
+        "height": 10,
+        "weight": 350,
+        "types": [
+            "rock",
+            "water"
+        ],
+        "description": "Un POKéMON dell'era preistorica. Si pensa che si sia estinto perché il suo guscio a spirale è diventato troppo grande."
+    },
+    {
+        "id": 140,
+        "name": "kabuto",
+        "height": 5,
+        "weight": 115,
+        "types": [
+            "rock",
+            "water"
+        ],
+        "description": "Un POKéMON che è stato rigenerato da un fossile. Si nasconde sul fondo dell'oceano, come dimostrano i suoi occhi."
+    },
+    {
+        "id": 141,
+        "name": "kabutops",
+        "height": 13,
+        "weight": 405,
+        "types": [
+            "rock",
+            "water"
+        ],
+        "description": "La sua forma snella gli permette di nuotare velocemente. Affetta la sua preda con le sue falci affilate e ne assorbe i fluidi."
+    },
+    {
+        "id": 142,
+        "name": "aerodactyl",
+        "height": 18,
+        "weight": 590,
+        "types": [
+            "rock",
+            "flying"
+        ],
+        "description": "Un POKéMON feroce dell'era dei dinosauri. Si pensava fosse estinto, ma è stato rigenerato da materiale genetico estratto dall'ambra."
+    },
+    {
+        "id": 143,
+        "name": "snorlax",
+        "height": 21,
+        "weight": 4600,
+        "types": [
+            "normal"
+        ],
+        "description": "Molto pigro. Mangia e dorme. Man mano che ingrassa, diventa sempre più pigro."
+    },
+    {
+        "id": 144,
+        "name": "articuno",
+        "height": 17,
+        "weight": 554,
+        "types": [
+            "ice",
+            "flying"
+        ],
+        "description": "Un uccello leggendario. Si dice che appaia alle persone sperdute tra le montagne innevate."
+    },
+    {
+        "id": 145,
+        "name": "zapdos",
+        "height": 16,
+        "weight": 526,
+        "types": [
+            "electric",
+            "flying"
+        ],
+        "description": "Un uccello leggendario che si dice appaia dalle nuvole mentre lancia enormi fulmini."
+    },
+    {
+        "id": 146,
+        "name": "moltres",
+        "height": 20,
+        "weight": 600,
+        "types": [
+            "fire",
+            "flying"
+        ],
+        "description": "Conosciuto come l'uccello leggendario del fuoco. Si dice che ogni battito delle sue ali crei una fiammata brillante."
+    },
+    {
+        "id": 147,
+        "name": "dratini",
+        "height": 18,
+        "weight": 33,
+        "types": [
+            "dragon"
+        ],
+        "description": "A lungo considerato un POKéMON mitico, fino a quando una piccola colonia non è stata trovata a vivere sott'acqua."
+    },
+    {
+        "id": 148,
+        "name": "dragonair",
+        "height": 40,
+        "weight": 165,
+        "types": [
+            "dragon"
+        ],
+        "description": "Un POKéMON leggendario che si dice viva nei mari e nei laghi. È in grado di cambiare il tempo atmosferico."
+    },
+    {
+        "id": 149,
+        "name": "dragonite",
+        "height": 22,
+        "weight": 2100,
+        "types": [
+            "dragon",
+            "flying"
+        ],
+        "description": "Un POKéMON marino estremamente raro e intelligente. Si dice che la sua intelligenza sia pari a quella umana."
+    },
+    {
+        "id": 150,
+        "name": "mewtwo",
+        "height": 20,
+        "weight": 1220,
+        "types": [
+            "psychic"
+        ],
+        "description": "È stato creato da uno scienziato dopo anni di orribili esperimenti di ingegneria genetica e di splicing del DNA."
+    },
+    {
+        "id": 151,
+        "name": "mew",
+        "height": 4,
+        "weight": 40,
+        "types": [
+            "psychic"
+        ],
+        "description": "Così raro che molti esperti ritengono che sia estinto. Solo pochi lo hanno visto."
+    }
+]
